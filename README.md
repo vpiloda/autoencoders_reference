@@ -13,3 +13,4 @@ Tasks :
 - [ ] image data to hdf conversion
 - [ ] Basics of Pandas
 
+[Auto-Encoders Sample code](https://colab.research.google.com/drive/1MoB9yoZx1JWUFgFDIuyEro0LpzL2nVnm?usp=sharing)
